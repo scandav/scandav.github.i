@@ -1,0 +1,29 @@
+# Dependencies
+markdown:         kramdown
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            scandav
+tagline:          "Davide's website"
+description:      "Davide Scandella's Personal Page."
+url:              http://hyde.getpoole.com
+baseurl:          /
+
+author:
+  name:           'Davide Scandella'
+  url:            https://non.indica.it
+
+paginate:         5
+
+# Custom vars
+version:          'draft'
+
+github:
+  repo:           https://github.com/scandav/scandav.github.io
+
+plugins:
+  - jekyll-paginate
+  - jekyll-gist

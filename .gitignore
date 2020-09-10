@@ -1,0 +1,5 @@
+_site/
+.asset-cache/
+.jekyll-cache/
+*.lock
+*.code-workspace
