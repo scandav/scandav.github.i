@@ -19,7 +19,7 @@ df_pv
 
 
 
-<div>
+<div class="md-table">
 <style scoped>
     .dataframe tbody tr th:only-of-type {
         vertical-align: middle;
@@ -219,7 +219,7 @@ df_pv.describe()
 
 
 
-<div>
+<div  class="md-table">
 <style scoped>
     .dataframe tbody tr th:only-of-type {
         vertical-align: middle;
@@ -368,7 +368,7 @@ df_pv_no_zeroV.describe()
 
 
 
-<div>
+<div  class="md-table">
 <style scoped>
     .dataframe tbody tr th:only-of-type {
         vertical-align: middle;
@@ -625,7 +625,7 @@ df_radiation.head()
 
 
 
-<div>
+<div  class="md-table">
 <style scoped>
     .dataframe tbody tr th:only-of-type {
         vertical-align: middle;
