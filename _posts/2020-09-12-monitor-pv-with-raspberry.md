@@ -20,3 +20,7 @@ The web-interface is written in python and Flask.
 The .html and .css makes use of no modules. Interactive plots are generated with bokeh.
 
 ![image](/assets/img/pv_dashboard.png)
+
+![image](/assets/img/pv_daily.png)
+
+![image](/assets/img/pv_monthly.png)

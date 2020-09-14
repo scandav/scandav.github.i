@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PV Production - Data Analysis
-desc: This post is under construction.
 ---
 
 ```python
